@@ -1,0 +1,17 @@
+{
+  "name": "joke-of-the-day",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jokes"
+  ],
+  "author": "Akash",
+  "license": "ISC",
+  "description": "one liner joke",
+  "dependencies": {
+    "joke-of-the-day": "^1.0.0"
+  }
+}

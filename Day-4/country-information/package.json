@@ -1,0 +1,12 @@
+{
+  "name": "country-information-1",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["country", "name", "curruncy","country-info","flag", "capital"],
+  "author": "Akash",
+  "license": "ISC",
+  "description": "Information about the country"
+}
